@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hi there 👋 I'm Menekse
 
-<!--
-**MenekseYuncu/MenekseYuncu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Menekşe from Turkey, currently living Mersin.I'm a software engineer.I graduated from Çanakkale Onsekiz Mart University (COMU)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+- 🌱 I’m currently learning Java ,JavaScript
+- ⚡ Fun fact: I love watching animation and drawing
+
+### :octocat:  Connect with me:
+
+- 📫 How to reach me: menekseyuncu@gmail.com
+- 📄 Know about my experiences:
+<p>
+  <a href="https://www.linkedin.com/in/menekse-yuncu-a07581217/[removed]" rel="nofollow noreferrer">
+    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
+
+</p>
+
+
+
+
+
