@@ -5,8 +5,8 @@ I'm Menekşe from Turkey, currently living Mersin.I'm a software engineer.I grad
 
 
 
-- 🌱 I’m currently learning Java ,JavaScript
-- ⚡ Fun fact: I love watching animation and drawing
+- 🌱 I’m currently learning Java ,JavaScript,Spring Boot,Angular,MySql ve JDBC
+- ⚡ Fun fact: I love watching films , drawing animation and growing plant.
 
 ### :octocat:  Connect with me:
 
