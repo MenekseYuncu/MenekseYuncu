@@ -11,12 +11,12 @@ I'm Menekşe from Turkey, currently living Mersin.I'm a software engineer.I grad
 ### :octocat:  Connect with me:
 
 - 📫 How to reach me: menekseyuncu@gmail.com
-- 📄 Know about my experiences:
-<p>
+- 📄 Know about my experiences: <p>
   <a href="https://www.linkedin.com/in/menekse-yuncu-a07581217/[removed]" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
 
 </p>
+
 
 
 
