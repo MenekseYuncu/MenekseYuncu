@@ -1,12 +1,20 @@
-### Hi there 👋 I'm Menekse
+### Hi there 👋 I'm Menekşe Yüncü
 
-I'm Menekşe from Turkey, currently living Mersin.I'm a software engineer.I graduated from Çanakkale Onsekiz Mart University (COMU)
+![](https://komarev.com/ghpvc/?username=MenekseYuncu)
+
+I'm Menekşe from Turkey, currently living Mersin.I'm a software developer.I graduated from Çanakkale Onsekiz Mart University (COMU)
 
 
-
-
-- 🌱 I’m currently learning Java ,Spring Boot,Spring MVC ,MySql
-- ⚡ Fun fact: I love watching films , drawing animation and growing plant.
+- 👨🏽‍💻 I’m currently learning new fields and improving my existing skills through online platforms.
+  - 🌱 I’m currently learning:
+      + Java,
+      + Spring Boot,
+      + Spring Security,
+      + JUnit Test,
+      + Spring MVC,
+      + MySql,
+      + Docker
+- ⚡ Fun fact: I like watching films , drawing and growing plant.
 
 ### :octocat:  Connect with me:
 
