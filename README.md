@@ -23,9 +23,8 @@ I'm Menekşe from Turkey, currently living Mersin.I'm a software developer.I gra
   <a href="https://www.linkedin.com/in/menekse-yuncu/" rel="nofollow noreferrer">
   <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
 
+---
 
+![Yılan Oyunu](https://github.com/MenekseYuncu/MenekseYuncu/raw/main/github-contribution.svg)
 
-
-
-
-
+___
