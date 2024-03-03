@@ -14,8 +14,8 @@ I'm Menekşe from Turkey, currently living Mersin.I'm a software developer.I gra
       + Spring MVC,
       + MySql,
       + Docker
-- ⚡ Fun fact: I like watching films , drawing and growing plant.
-
+- ⚡ I’m currently open for an Intern or job opportunity
+  
 ### :octocat:  Connect with me:
 
 - 📫 How to reach me: menekseyuncu@gmail.com
