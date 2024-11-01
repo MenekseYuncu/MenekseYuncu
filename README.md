@@ -24,3 +24,4 @@ I'm Menekşe from Turkey, currently living Mersin.I'm a software developer.I gra
   <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
 
 ---
+[![GitHub Streak](https://streak-stats.demolab.com/?user=MenekseYuncu&theme=modern-lilac2)](https://git.io/streak-stats)
