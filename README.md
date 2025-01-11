@@ -25,5 +25,3 @@ I'm Menekşe from Turkey, currently living Mersin.I'm a software developer.I gra
 
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MenekseYuncu&show_icons=true&hide=contribs&theme=tokyonight)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=MenekseYuncu&theme=tokyonight)](https://git.io/streak-stats)
