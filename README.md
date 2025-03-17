@@ -14,7 +14,8 @@ I'm Menekşe from Turkey, currently living Mersin.I'm a software developer.I gra
       + Spring MVC,
       + MySql,
       + Docker
-- ⚡ I’m currently open for an Intern or job opportunity
+      + Selenium
+- ⚡ I’m currently open for job opportunity
   
 ### :octocat:  Connect with me:
 
