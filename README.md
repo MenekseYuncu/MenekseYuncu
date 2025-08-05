@@ -12,7 +12,10 @@ I'm Menekşe from Turkey, currently living Mersin.I'm a software developer.I gra
       + Spring Security,
       + JUnit Test,
       + Spring MVC,
-      + MySql,
+      + Redis
+      + Elastic Search
+      + Azure
+      + MySql, PostgreSql
       + Docker
       + Selenium
 - ⚡ I’m currently open for job opportunity
