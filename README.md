@@ -1,34 +1,55 @@
-### Hi there 👋 I'm Menekşe Yüncü
+# 👋 Hi, I'm Menekşe Yüncü — Software Java Developer
 
-![](https://komarev.com/ghpvc/?username=MenekseYuncu)
-
-I'm Menekşe from Turkey, currently living Mersin.I'm a software developer.I graduated from Çanakkale Onsekiz Mart University (COMU)
-
-
-- 👨🏽‍💻 I’m currently learning new fields and improving my existing skills through online platforms.
-  - 🌱 I’m currently learning:
-      + Java,
-      + Spring Boot,
-      + Spring Security,
-      + JUnit Test,
-      + Spring MVC,
-      + Redis
-      + Elastic Search
-      + Azure
-      + MySql, PostgreSql
-      + Docker
-      + Selenium
-- ⚡ I’m currently open for job opportunity
-  
-### :octocat:  Connect with me:
-
-- 📫 How to reach me: menekseyuncu@gmail.com
-- 📄 Know about my experiences: 
-  <a href="https://www.linkedin.com/in/menekse-yuncu/" rel="nofollow noreferrer">
-  <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Menekşe%20Yüncü-blue?logo=linkedin)](https://www.linkedin.com/in/menekse-yuncu/)
+[![Email](https://img.shields.io/badge/Email-menekseyuncu%40gmail.com-red?logo=gmail)](mailto:menekseyuncu@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-MenekseYuncu-black?logo=github)](https://github.com/MenekseYuncu)
+[![Medium](https://img.shields.io/badge/Medium-@menekseyuncu-black?logo=medium)](https://medium.com/@menekseyuncu)
 
 ---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MenekseYuncu&show_icons=true&hide=contribs&theme=tokyonight)
 
+## 💼 About Me
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=MenekseYuncu&theme=tokyonight)](https://git.io/streak-stats)
+I’m a **Backend-focused Java Developer** passionate about creating **secure, scalable, and maintainable** applications.  
+With hands-on experience in **Spring Boot** and related technologies, I have contributed to enterprise-scale projects, integrated cloud services, and delivered production-ready APIs.
+
+- 🔍 **Actively seeking**: Backend Developer / Java Developer opportunities
+- 💡 Experienced in: Java, Spring Boot, Spring Security, REST APIs, Redis, Docker, PostgreSQL, Elasticsearch
+- 🚀 Passionate about: Clean architecture, performance optimization, and automation
+- 🌍 Location: Mersin, Turkey (Open to remote & relocation)
+
+---
+
+## 🛠 Tech Stack
+
+**Languages & Frameworks**  
+Java 17/21 | Spring Boot | Spring Security | Hibernate | JUnit | MapStruct
+
+**Databases & Search**  
+PostgreSQL | MySQL | Redis | ElasticSearch
+
+**DevOps & Tools**  
+Docker | Azure | Git | Maven | Flyway | Testcontainers | New Relic
+
+---
+
+## 📌 Featured Projects
+
+- **[Restaurant Management System](https://github.com/MenekseYuncu/restaurant-management)** — Category, product, and table management with billing workflows (Java, Spring Boot, PostgreSQL, Docker)
+- **[Store Management System](https://github.com/MenekseYuncu/store-management)** — Retail operations automation with inventory, sales, and reporting (Java, Spring Boot, PostgreSQL, Docker)
+- **[Human Resource Management System](https://github.com/MenekseYuncu/hr-application)** — Employee records, leave management, performance tracking (Java, Spring Boot, MySQL)
+- **[Guarantee Tracking Application](https://github.com/MenekseYuncu/guarantee-tracking-application)** — IoT device warranty and stock tracking (Java, Spring Boot, Testcontainers)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MenekseYuncu&show_icons=true&theme=tokyonight)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=MenekseYuncu&theme=tokyonight)  
+
+---
+
+## 📫 Contact
+
+📧 **Email:** [menekseyuncu@gmail.com](mailto:menekseyuncu@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/menekse-yuncu](https://www.linkedin.com/in/menekse-yuncu)  
+✍️ **Medium:** [@menekseyuncu](https://medium.com/@menekseyuncu)  
