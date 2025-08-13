@@ -2,7 +2,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Menekşe%20Yüncü-blue?logo=linkedin)](https://www.linkedin.com/in/menekse-yuncu/)
 [![Email](https://img.shields.io/badge/Email-menekseyuncu%40gmail.com-red?logo=gmail)](mailto:menekseyuncu@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-MenekseYuncu-black?logo=github)](https://github.com/MenekseYuncu)
 [![Medium](https://img.shields.io/badge/Medium-@menekseyuncu-black?logo=medium)](https://medium.com/@menekseyuncu)
 ![](https://komarev.com/ghpvc/?username=MenekseYuncu)
 ---
