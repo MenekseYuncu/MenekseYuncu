@@ -3,31 +3,30 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Menekşe%20Yüncü-blue?logo=linkedin)](https://www.linkedin.com/in/menekse-yuncu/)
 [![Email](https://img.shields.io/badge/Email-menekseyuncu%40gmail.com-red?logo=gmail)](mailto:menekseyuncu@gmail.com)
 [![Medium](https://img.shields.io/badge/Medium-@menekseyuncu-black?logo=medium)](https://medium.com/@menekseyuncu)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-green?logo=google-chrome)](https://menekse-yuncu-portfolio-o6wn.vercel.app/)
 ![](https://komarev.com/ghpvc/?username=MenekseYuncu)
 ---
 
 ## 💼 About Me
 
-I’m a **Backend-focused Java Developer** passionate about creating **secure, scalable, and maintainable** applications.  
+I’m a **Backend-focused Java Developer** passionate about creating **secure, scalable, and maintainable** applications.   
 With hands-on experience in **Spring Boot** and related technologies, I have contributed to enterprise-scale projects, integrated cloud services, and delivered production-ready APIs.
 
 - 🔍 **Actively seeking**: Backend Developer / Java Developer opportunities
 - 💡 Experienced in: Java, Spring Boot, Spring Security, REST APIs, Redis, Docker, PostgreSQL, Elasticsearch
+- 📱 **New Venture**: Currently building mobile applications using Flutter and exploring cross-platform development.
 - 🚀 Passionate about: Clean architecture, performance optimization, and automation
-- 🌍 Location: Mersin, Turkey (Open to remote & relocation)
+- 🌍 Location: Open to remote & relocation
 
 ---
 
 ## 🛠 Tech Stack
 
-**Languages & Frameworks**  
-Java 17/21 | Spring Boot | Spring Security | Hibernate | JUnit | MapStruct
+**Languages & Frameworks** Java 17/21 | Spring Boot | Spring Security | Hibernate | JUnit | MapStruct | Next.js | Swift
 
-**Databases & Search**  
-PostgreSQL | MySQL | Redis | ElasticSearch
+**Databases & Search** PostgreSQL | MySQL | Redis | ElasticSearch
 
-**DevOps & Tools**  
-Docker | Azure | Git | Maven | Flyway | Testcontainers | New Relic
+**DevOps & Tools** Docker | Azure | Git | Maven | Flyway | Testcontainers | New Relic
 
 ---
 
@@ -42,13 +41,14 @@ Docker | Azure | Git | Maven | Flyway | Testcontainers | New Relic
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MenekseYuncu&show_icons=true&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=MenekseYuncu&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MenekseYuncu&show_icons=true&theme=tokyonight)   
+![GitHub Streak](https://streak-stats.demolab.com/?user=MenekseYuncu&theme=tokyonight)   
 
 ---
 
 ## 📫 Contact
 
-📧 **Email:** [menekseyuncu@gmail.com](mailto:menekseyuncu@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/menekse-yuncu](https://www.linkedin.com/in/menekse-yuncu)  
+📧 **Email:** [menekseyuncu@gmail.com](mailto:menekseyuncu@gmail.com)   
+💼 **LinkedIn:** [linkedin.com/in/menekse-yuncu](https://www.linkedin.com/in/menekse-yuncu)   
 ✍️ **Medium:** [@menekseyuncu](https://medium.com/@menekseyuncu)  
+🌐 **Portfolio:** [menekse-yuncu-portfolio-o6wn.vercel.app](https://menekse-yuncu-portfolio-o6wn.vercel.app/)
