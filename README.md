@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Menekşe Yüncü — Software Java Developer
+# 👋 Hi, I'm Menekşe Yüncü — Backend & Mobile Developer | Freelancer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Menekşe%20Yüncü-blue?logo=linkedin)](https://www.linkedin.com/in/menekse-yuncu/)
 [![Email](https://img.shields.io/badge/Email-menekseyuncu%40gmail.com-red?logo=gmail)](mailto:menekseyuncu@gmail.com)
@@ -9,33 +9,35 @@
 
 ## 💼 About Me
 
-I’m a **Backend-focused Java Developer** passionate about creating **secure, scalable, and maintainable** applications.   
-With hands-on experience in **Spring Boot** and related technologies, I have contributed to enterprise-scale projects, integrated cloud services, and delivered production-ready APIs.
+I’m a **Software Developer** with a strong foundation in **Backend Engineering**, currently expanding my horizons into **Mobile & Full-Stack Development** and taking on **Freelance** projects. 
+From architecting robust microservices to building interactive mobile games and productivity apps, I love bringing end-to-end solutions to life.
 
-- 🔍 **Actively seeking**: Backend Developer / Java Developer opportunities
-- 💡 Experienced in: Java, Spring Boot, Spring Security, REST APIs, Redis, Docker, PostgreSQL, Elasticsearch
-- 📱 **New Venture**: Currently building mobile applications using Flutter and exploring cross-platform development.
-- 🚀 Passionate about: Clean architecture, performance optimization, and automation
-- 🌍 Location: Open to remote & relocation
+- 🚀 **Currently working on**: Freelance web/mobile applications and expanding my cross-platform portfolio with tools like **React Native** and **Supabase**.
+- 💡 **Backend Expertise**: Java 17/21, Spring Boot, PostgreSQL, Redis, Kafka, RabbitMQ, Docker.
+- 📱 **Mobile & Frontend**: Building modern, responsive applications using Kotlin, React, Next.js.
+- ☁️ **Cloud & Deployments**: Experience with Google Cloud Run, Linux VPS administration, and Cloudflare R2.
+- ✍️ **Content Creator**: Sharing technical insights, system architecture deep-dives, and tutorials on Medium.
+- 🤝 **Actively seeking**: Freelance opportunities and Backend / Mobile Developer roles. Open to remote & relocation.
 
 ---
 
 ## 🛠 Tech Stack
 
-**Languages & Frameworks** Java 17/21 | Spring Boot | Spring Security | Hibernate | JUnit | MapStruct | Next.js | Swift
-
-**Databases & Search** PostgreSQL | MySQL | Redis | ElasticSearch
-
-**DevOps & Tools** Docker | Azure | Git | Maven | Flyway | Testcontainers | New Relic
+**Languages:** Java 17/21 | TypeScript / JavaScript | Swift | Kotlin
+**Backend & BaaS:** Spring Boot | Spring Security | Supabase 
+**Mobile & Frontend:** React |Kotlin | Swift
+**Databases & Messaging:** PostgreSQL | MySQL | Redis | ElasticSearch | Kafka | RabbitMQ
+**DevOps & Tools:** Docker | Google Cloud Run | Git | Liquibase | Flyway | Maven
 
 ---
 
-## 📌 Featured Projects
+## 📌 Featured Projects & Freelance Work
 
-- **[Restaurant Management System](https://github.com/MenekseYuncu/restaurant-management)** — Category, product, and table management with billing workflows (Java, Spring Boot, PostgreSQL, Docker)
-- **[Store Management System](https://github.com/MenekseYuncu/store-management)** — Retail operations automation with inventory, sales, and reporting (Java, Spring Boot, PostgreSQL, Docker)
-- **[Human Resource Management System](https://github.com/MenekseYuncu/hr-application)** — Employee records, leave management, performance tracking (Java, Spring Boot, MySQL)
-- **[Guarantee Tracking Application](https://github.com/MenekseYuncu/guarantee-tracking-application)** — IoT device warranty and stock tracking (Java, Spring Boot, Testcontainers)
+- **Mobile Apps (Flutter & Supabase)** — Developed gamified productivity apps (*DareMe*) and text-based interactive survival games (*Would You Survive?*) utilizing rich assets and branching scenarios.
+- **Full-Stack Web Platforms** — Built *AlmancaABC*, a language learning platform with live video integration and push notifications.
+- **[Restaurant Management System](https://github.com/MenekseYuncu/restaurant-management)** — Category, product, and table management with billing workflows (Java, Spring Boot, PostgreSQL, Docker).
+- **[Store Management System](https://github.com/MenekseYuncu/store-management)** — Retail operations automation with inventory, sales, and reporting (Java, Spring Boot, PostgreSQL, Docker).
+- **[Human Resource Management System](https://github.com/MenekseYuncu/hr-application)** — Employee records, leave management, performance tracking (Java, Spring Boot, MySQL).
 
 ---
 
